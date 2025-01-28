@@ -1,1 +1,21 @@
-jasgdkgjgejgeritihibghjdklgrjklgjrklbjdgkldjghklejhiejgigjegjighjiohjiohjbklhfklhjjrhj
+今日の授業ではgitの使い方を勉強します. 
+試しに, ファイルをアップしました.
+
+>mkdir github
+>cd github
+>mkdir test
+>cd test
+>notepad test.txt
+>git init
+>git config --global user.email "ee33075t@nagaoka-ct.ac.jp"
+>git config --global user.email "michina-ga"
+>git add test.txt
+>git commit -m
+>git remote add origin  https://github.com/michina-ga/test.git
+>git push --set-upstream origin master
+
+
+二回目以降のぷっしゅ
+>git add test.txt
+>git commit -m "pushpush"
+>git push
