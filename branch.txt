@@ -1,0 +1,7 @@
+branchについて
+git branch //branchの名前を見る
+
+git branch branch_test //branch_testの部分にbranchの名前を入れるとその名前のbranchができる
+
+git checkout branch_test //branch_testに入る
+
